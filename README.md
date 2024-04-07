@@ -15,3 +15,4 @@ TO ad changes to main branch
 ### git add .
 ### git commit -m "Deployed Website"
 ### git push -u origin main
+### npm run deploy
